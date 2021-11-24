@@ -23,7 +23,7 @@ Tips Calculator for android devices.
 |  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image1.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image2.jpg" width="235" height="550"></a> |
 | ------------- | ------------- |
 
-### 2️⃣ BMI Form
+### 2️⃣ Form
 
 
 |  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image3.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image4.jpg" width="235" height="550"></a> |
