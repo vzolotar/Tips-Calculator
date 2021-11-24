@@ -1,4 +1,4 @@
-# Tips-Calculator
+# Tips Calculator
 
 ### 📝 Description 
 Tips Calculator for android devices. 
@@ -20,11 +20,11 @@ Tips Calculator for android devices.
 ### 1️⃣ Main Window
 
 
-|  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/Images/image1.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/Images/image2.jpg" width="235" height="550"></a> |
+|  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image1.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image2.jpg" width="235" height="550"></a> |
 | ------------- | ------------- |
 
 ### 2️⃣ BMI Form
 
 
-|  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/Images/image3.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/Images/image4.jpg" width="235" height="550"></a> |
+|  <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image3.jpg" width="235" height="550"></a> | <img align="center" src="https://github.com/vzolotar/Tips-Calculator/blob/main/images/image4.jpg" width="235" height="550"></a> |
 | ------------- | ------------- |
